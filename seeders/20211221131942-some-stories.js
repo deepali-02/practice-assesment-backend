@@ -25,10 +25,10 @@ module.exports = {
           updatedAt: new Date(),
         },
         {
-          name: "My inspiration for life",
+          name: "My inspiration in life",
           content:
             "My inspiration in life is a person who has shown me this world. My mother; she is my inspiration since the time when I turned into the prime phase of life.",
-          imageUrl: null,
+          imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6axCKUScrwSdz19gYDrAcmIpLdaZEC1OiA&usqp=CAU",
           spaceId: 2,
           createdAt: new Date(),
           updatedAt: new Date(),

@@ -9,7 +9,7 @@ module.exports = {
           title: "My journey at codaisseur",
           description:
             "All days I spent in Codaisseur was one of my best days.",
-          backgroundColor: "#ffffff",
+          backgroundColor: "#0000FF",
           color: "#000000",
           userId: 1,
           createdAt: new Date(),
@@ -18,7 +18,7 @@ module.exports = {
         {
           title: "My career goal",
           description: "I want to do best job as a web deverloper.",
-          backgroundColor: "#ffffff",
+          backgroundColor: "#910a60",
           color: "#000000",
           userId: 2,
           createdAt: new Date(),
